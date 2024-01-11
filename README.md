@@ -1,5 +1,6 @@
 Link my organizazions:
 - Microservices: https://github.com/orgs/Microservices-paolo/repositories;
+- Personal Project: https://github.com/Personal-Project-Paolo;
 
 
 ## 🌐 Socials:
