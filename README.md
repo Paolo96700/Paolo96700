@@ -1,5 +1,5 @@
 Link my organizazions:
-- Personal Project: https://github.com/orgs/Personal-Project-Paolo/repositories;
+- Personal Project: https://github.com/orgs/Personal-Project-Paolo/repositories
 - Microservices: https://github.com/orgs/Microservices-paolo/repositories
 
 
