@@ -1,7 +1,8 @@
 Link my organizazions:
 - Personal Project: https://github.com/orgs/Personal-Project-Paolo/repositories
 - Microservices: https://github.com/orgs/Microservices-paolo/repositories
-- https://github.com/Boolean-projects-paolo
+- Boolean Repository: https://github.com/Boolean-projects-paolo/repositories
+- Boolean Repository JS: https://github.com/orgs/Boolean-projects-paolo-js/repositories
 
 
 ## 🌐 Socials:
