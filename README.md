@@ -4,6 +4,7 @@ Link my organizazions:
 - Boolean Repository: https://github.com/Boolean-projects-paolo/repositories
 - Boolean Repository JS: https://github.com/orgs/Boolean-projects-paolo-js/repositories
 - Boolean Repository Bootstrap: https://github.com/orgs/Boolean-projects-paolo-bootstrap/repositories
+- Boolean Repository Vue: https://github.com/orgs/Boolean-projects-paolo-vue/repositories
 
 
 ## 🌐 Socials:
