@@ -3,7 +3,7 @@ Link my organizazions:
 - Microservices: https://github.com/orgs/Microservices-paolo/repositories
 - Boolean Repository: https://github.com/Boolean-projects-paolo/repositories
 - Boolean Repository JS: https://github.com/orgs/Boolean-projects-paolo-js/repositories
-- Boolean Repository Bottstrap: https://github.com/orgs/Boolean-projects-paolo-bootstrap/repositories
+- Boolean Repository Bootstrap: https://github.com/orgs/Boolean-projects-paolo-bootstrap/repositories
 
 
 ## 🌐 Socials:
