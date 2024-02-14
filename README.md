@@ -6,7 +6,7 @@ Link my organizazions:
 - Boolean Repository Bootstrap: https://github.com/orgs/Boolean-projects-paolo-bootstrap/repositories
 - Boolean Repository Vue - Vite: https://github.com/orgs/Boolean-projects-paolo-vue/repositories
 - Boolean Repository PHP: https://github.com/Boolean-projects-PHP
-
+- Boolean Repository Laravel: https://github.com/Boolean-projects-Laravel
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/paolo.falco.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paolo.falco96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paolo-falco) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/paolofalco96) 
