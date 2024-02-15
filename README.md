@@ -1,7 +1,7 @@
 Link my organizazions:
 - Personal Project: https://github.com/orgs/Personal-Project-Paolo/repositories
 - Microservices: https://github.com/orgs/Microservices-paolo/repositories
-- Boolean Repository: https://github.com/Boolean-projects-paolo/repositories
+- Boolean Repository: https://github.com/orgs/Boolean-projects-paolo/repositories
 - Boolean Repository JS: https://github.com/orgs/Boolean-projects-paolo-js/repositories
 - Boolean Repository Bootstrap: https://github.com/orgs/Boolean-projects-paolo-bootstrap/repositories
 - Boolean Repository Vue - Vite: https://github.com/orgs/Boolean-projects-paolo-vue/repositories
