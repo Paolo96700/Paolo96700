@@ -32,7 +32,7 @@ Relational Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 Client Databases:
-![pgAdmin](https://img.shields.io/badge/pgAdmin-%23336791.svg?style=for-the-badge&logo=pgAdmin&logoColor=white)
+![pgAdmin 4](https://img.shields.io/badge/pgAdmin%204-%23336791.svg?style=for-the-badge&logo=pgAdmin&logoColor=white)
 
 Extentions:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
